@@ -10,6 +10,9 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo yeHHH trtrtr</p>'; ?>
+       <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo yeHHH trtrtr</p>'; 
+       //te he comitado encima tio cata el historial juajajaja xk los estoy aciendo desde la web y aqui no se hacer pull
+       ?>
+       
     </body>
 </html>
