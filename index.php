@@ -10,6 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-       <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo yeHHH biatch, si editas el que tienes tu no se cambia este! son projects diferentes</p>'; ?>
+       <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo yeHHH trtrtr</p>'; ?>
     </body>
 </html>
