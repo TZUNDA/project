@@ -17,7 +17,18 @@ and open the template in the editor.
        
        //esta funcion sirve para que al acceder a los datos que envia el user en un form, no se puede inyectar ni scripts ni htlm 
        //vamos que para seguridad
-       /* ?php
+       /* 
+       <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+       Name: <input type="text" name="name">
+        E-mail: <input type="text" name="email">
+        Website: <input type="text" name="website">
+        Comment: <textarea name="comment" rows="5" cols="40"></textarea>
+        Gender:
+        <input type="radio" name="gender" value="female">Female
+        <input type="radio" name="gender" value="male">Male
+        </form>
+        
+       <?php
 // define variables and set to empty values
 $name = $email = $gender = $comment = $website = "";
 //El formulario a sido enviado esto seria su procesado en el action
