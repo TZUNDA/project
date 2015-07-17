@@ -55,6 +55,7 @@ and open the template in the editor.
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+        <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br> <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>
     	
        <?php echo '<p>Hola Mundo y esos Aliens y el Campos de trigoooooo yeHHH trtrtr</p>';?>
        <?php
@@ -62,7 +63,7 @@ and open the template in the editor.
 $nameErr = $emailErr = $genderErr = $websiteErr = "";
 $name = $email = $gender = $comment = $website = "";
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+if (filter_input(INPUT_SERVER, 'REQUEST METHOD', FILTER_SANITIZE_STRING) == "POST") {
 	$ok=0;
    if (empty($_POST["name"])) {
      $nameErr = "Name is required";
