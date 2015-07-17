@@ -63,7 +63,7 @@ and open the template in the editor.
 $nameErr = $emailErr = $genderErr = $websiteErr = "";
 $name = $email = $gender = $comment = $website = "";
 
-if (filter_input(INPUT_SERVER, 'REQUEST METHOD', FILTER_SANITIZE_STRING) == "POST") {
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$ok=0;
    if (empty($_POST["name"])) {
      $nameErr = "Name is required";
