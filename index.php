@@ -20,7 +20,5 @@ and open the template in the editor.
         <br>
 
         <?php include ('form.php')?>
-
-
     </body>
 </html>
