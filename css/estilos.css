@@ -1,10 +1,11 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 16-jul-2015, 20:48:49
-    Author     : Alvaro
-*/
+#carrou{
+    width: 50%;
+    margin: auto 20%;
+    position: absolute;
 
+}
+#carrou:hover{
+    box-shadow:2px 2px 4px black;
+    transform:scale(1.05);
+    opacity: 0.9
+}

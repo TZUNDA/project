@@ -16,7 +16,7 @@ and open the template in the editor.
     <body>
         <?php include ('navbar.php'); ?>
         <br>
-        <?php include ('slider.php')?>
+        <?php include ('slider.php') ?>
 
 
     </body>
