@@ -147,7 +147,7 @@ function test_input($data) {
    <br><br>
    <input type="submit" name="submit" value="Submit">
 </form>
-       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
        <script src="js/bootstrap.min.js"></script>
     </body>
 </html>
