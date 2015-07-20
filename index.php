@@ -15,11 +15,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php include ('navbar.php'); ?>
-
-        <br>  
         <br>
-
-        <?php include ('form.php')?>
+        <?php include ('slider.php')?>
 
 
     </body>
