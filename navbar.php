@@ -26,7 +26,7 @@
                 <li><a href="#">TOPs</a></li>
                 </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li> <form class="navbar-form" role="search">
+                <li> <form class="navbar-form" action="rsBuscar.php" role="search">
                         <div class="input-group">
                             <input type="text" class="form-control small" placeholder="Búsqueda" name="btnBuscar">
                             <div class="input-group-btn">
