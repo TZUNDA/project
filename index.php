@@ -19,10 +19,10 @@ and open the template in the editor.
         <?php include ('navbar.php'); ?>
         <br>
         <?php //include ('slider.php') ?>
-        <?php include ('leftnav.php')?> 
-        
-<span class="glyphicon glyphicon-new-window large" aria-hidden="true"></span>
-<span class="glyphicon glyphicon-new-window large inv" aria-hidden="true"></span>
-       <?php include ('footer.php')?> 
+        <?php include ('leftnav.php') ?> 
+
+        <span class="glyphicon glyphicon-new-window large" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-new-window large inv" aria-hidden="true"></span>
+        <?php include ('footer.php') ?> 
     </body>
 </html>
