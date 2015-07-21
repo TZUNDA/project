@@ -149,7 +149,8 @@ and open the template in the editor.
         </div><!--/right-->
   	</div><!--/row-->
 </div><!--/container-->
-
+<span class="glyphicon glyphicon-new-window large" aria-hidden="true"></span>
+<span class="glyphicon glyphicon-new-window large inv" aria-hidden="true"></span>
        <?php //include ('footer.php')?> 
     <footer class=footer>
         <div clas=container-fluid>
