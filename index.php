@@ -20,7 +20,7 @@ and open the template in the editor.
        <?php //include ('footer.php')?> 
     <footer class=footer>
         <div clas=container-fluid>
-         <p class="text-muted credit"></p>© Copyright 2015, HITHOT - All rights reserved </p>
+         <p class="text-muted credit">© Copyright 2015, HITHOT - All rights reserved </p>
          </div>
     </footer>
 
