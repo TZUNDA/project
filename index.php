@@ -17,5 +17,12 @@ and open the template in the editor.
         <?php include ('navbar.php'); ?>
         <br>
         <?php include ('slider.php') ?>
+       <?php //include ('footer.php')?> 
+    <footer class=footer>
+        <div clas=container-fluid>
+         © Copyright 2015, HITHOT - All rights reserved
+         </div>
+    </footer>
+
     </body>
 </html>
