@@ -1,3 +1,11 @@
+<div class="page-header">
+  	<div class="container">
+  		<div class="row-fluid">
+          <h1>HITHOT</h1>
+          <small> Always Hot</small>
+      	</div>
+  	</div>
+</div>
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container-fluid">
         <div class="navbar-header">
