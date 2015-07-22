@@ -20,17 +20,66 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">Categorias <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="form.php">Form</a></li>
-                        <li><a href="#">Another action</a></li>
-                        <li><a href="#">Something else here</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="#">Separated link</a></li>
-                        <li><a href="#">One more separated link</a></li>
-                    </ul>
-                </li>
+                	<li class="dropdown dropdown-large">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Categorias <b class="caret"></b></a>
+				
+				<ul class="dropdown-menu dropdown-menu-large row">
+					<li class="col-sm-3">
+						<ul>
+							
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+						</ul>
+					</li>
+					<li class="col-sm-3">
+						<ul>
+							
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+						</ul>
+					</li>
+					<li class="col-sm-3">
+						<ul>
+							
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+						</ul>
+					</li>
+					<li class="col-sm-3">
+						<ul>
+							
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+							<li><a href="#">Available glyphs</a></li>
+                                                        <li class="divider"></li>
+							<li><a href="#">Examples</a></li>
+							<li class="divider"></li>
+						</ul>
+					</li>
+                                        <li><a href="categorias.php" class="text-center text-warning">Ver todas las categorias</a></li>
+				</ul>
+				
+			</li>
                 <li><a href="#">Actrices</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TOP 5 <span class="caret"></span></a>
