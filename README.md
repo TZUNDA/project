@@ -1,6 +1,8 @@
 # README
 CSV:
 http://grupodismaster.com/es/faq/informacion-util/mas/item/301-abrir-un-archivo-csv-con-excel/301-abrir-un-archivo-csv-con-excel.html
+http://www.cristalab.com/tutoriales/abrir-y-leer-archivos-excel-con-php-c38945l/
+http://www.lewebmonster.com/como-leer-archivos-de-excel-xls-y-xlsx-con-php-y-la-clase-phpexcel/
 
 Aqui podemos poner todos los temas necesarios de config para leer nostros.
 http://www.w3schools.com/php/php_ajax_php.asp
