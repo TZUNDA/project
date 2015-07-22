@@ -43,9 +43,17 @@ window.onload = function () {
             }
         }
     });
+   
+    
     $(window).scroll(function(event){
         toggleHeader();
     });
+     //function toggleHeader() {
+     // if ($(window).scrollTop()===0 )
+         //$('.header ').show(600);
+      //else
+         //$('.header ').hide(600);
+    //}
 
     function toggleHeader() {
         $('.header ').toggle( $(window).scrollTop() < 1 );
