@@ -48,7 +48,7 @@ window.onload = function () {
     });
 
     function toggleHeader() {
-        $('.page-header ').toggle( $(window).scrollTop() < 1 );
+        $('.header ').toggle( $(window).scrollTop() < 1 );
     }
 };
 function validarBusqueda() {
