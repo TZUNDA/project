@@ -35,13 +35,13 @@
 
                         if ($response) {
                             $json = json_decode($response, true);
-                            $users = $json['categories'];
+                            $categories = $json['categories'];
                             
-                            foreach ($users as $user) {
+                            foreach ($categories as $category) {
                                 echo "
                                     <li class=\"col-sm-3\">
                                     <ul>
-                                    <li><a href=\"#\">" . $user['category'] . "</a></li>
+                                    <li><a href=\"#\">" . $category['category'] . "</a></li>
                                     <li class = \"divider\"></li>
                                     </ul>
                                     </li>";
