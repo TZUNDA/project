@@ -15,7 +15,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php include ('navbar.php'); ?>
-        <div class="container">
+        <div class="container masthead">
             <div class="row">
                 <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
 

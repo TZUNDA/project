@@ -1,13 +1,18 @@
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="header">
-  	<div class="container">
-  		<div class="row-fluid">
-                    <h1 class="text-center cabe">HITHOT</h1><h2 class="text-center"><small class="text-center sub">Always Hot </small><small><i class="glyphicon glyphicon-copyright-mark"></i></small></h2>
-      	</div>
-  	</div>
-</div>
-    
+        <div class="container">
+            <div class="row-fluid">
+                <h1 class="text-center cabe">HITHOT</h1>
+                <p class="text-center">
+                    <small class="text-center sub">Always Hot </small>
+                    <small><i class="glyphicon glyphicon-copyright-mark"></i>
+                    </small>
+                </p>
+            </div>
+        </div>
+    </div>
+
     <div class="container-fluid">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
