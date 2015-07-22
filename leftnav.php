@@ -21,14 +21,14 @@ and open the template in the editor.
 <div class="container">
     <div class="row">
         <!--left-->
-        <div class="col-md-3" id="leftCol">
+        <div class="hidden-xs col-sm-3 col-md-3" id="leftCol">
             <ul class="nav nav-stacked" id="sidebar">
-                <li><a href="#sec5">Videos del dia</a></li>
-                <li><a href="#sec0">Ultimos Videos</a></li>
-                <li><a href="#sec1">Videos populares del día</a></li>
-                <li><a href="#sec2">Vistos recientemente</a></li>
-                <li><a href="#sec3">Section 3</a></li>
-                <li><a href="#sec4">Section 4</a></li>
+                <li><a href="#sec5"><<i class="glyphicon glyphicon-menu-right"></i> Videos del dia</a></li>
+                <li><a href="#sec0"><i class="glyphicon glyphicon-triangle-right"></i> Ultimos Videos</a></li>
+                <li><a href="#sec1"><i class="glyphicon glyphicon-chevron-up"></i> Videos populares del día</a></li>
+                <li><a href="#sec2"><i class="glyphicon glyphicon-search"></i> Vistos recientemente</a></li>
+                <li><a href="#sec3"><i class="glyphicon glyphicon-search"></i> Section 3</a></li>
+                <li><a href="#sec4"><i class="glyphicon glyphicon-search"></i> Section 4</a></li>
             </ul>
         </div><!--/left-->
 
