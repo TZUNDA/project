@@ -3,9 +3,7 @@
     <div class="header">
   	<div class="container">
   		<div class="row-fluid">
-                    <h1 class="text-center cabe">HITHOT <br> <small class="text-center">Always Hot <small><i class="glyphicon glyphicon-copyright-mark"></i></small></small></h1>
-         
-          <BR>
+                    <h1 class="text-center cabe">HITHOT</h1><h2 class="text-center"><small class="text-center sub">Always Hot </small><small><i class="glyphicon glyphicon-copyright-mark"></i></small></h2>
       	</div>
   	</div>
 </div>
