@@ -1,12 +1,15 @@
-<div class="header">
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="header">
   	<div class="container">
   		<div class="row-fluid">
           <h1>HITHOT</h1>
           <small> Always Hot</small>
+          <BR><BR><BR>
       	</div>
   	</div>
 </div>
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    
     <div class="container-fluid">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
