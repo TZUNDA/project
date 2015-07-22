@@ -28,12 +28,12 @@
       <!--left-->
       <div class="xs-hidden col-sm-3 col-md-3" id="leftCol">
         <ul class="nav nav-stacked" id="sidebar">
-          <li><a href="#sec5">Section 0</a></li>
-          <li><a href="#sec0">Section 0</a></li>
-          <li><a href="#sec1">Section 1</a></li>
-          <li><a href="#sec2">Section 2</a></li>
-          <li><a href="#sec3">Section 3</a></li>
-          <li><a href="#sec4">Section 4</a></li>
+          <li><a href="#sec5"><i class="glyphicon glyphicon-menu-right"></i> Section 0</a></li>
+          <li><a href="#sec0"><i class="glyphicon glyphicon-chevron-right"></i> Section 0</a></li>
+          <li><a href="#sec1"><i class="glyphicon glyphicon-arrow-right"></i> Section 1</a></li>
+          <li><a href="#sec2"><i class="glyphicon glyphicon-circle-arrow-right"></i> Section 2</a></li>
+          <li><a href="#sec3"><i class="glyphicon glyphicon-hand-right"></i> Section 3</a></li>
+          <li><a href="#sec4"><i class="glyphicon glyphicon-indent-right"></i> Section 4</a></li>
         </ul>
       </div><!--/left-->
       
