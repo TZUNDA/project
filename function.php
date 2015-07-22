@@ -26,14 +26,14 @@ $params = array(
     'data' => $call
 );
 
-$response = RedTubeApiCall($http, $params);
-
-if ($response) {
-    $json = json_decode($response, true);
-
-    $users = $json['categories'];
-    foreach ($users as $user) {
-        echo $user['category']."\n\n";
-    }
-}
+//$response = RedTubeApiCall($http, $params);
+//
+//if ($response) {
+//    $json = json_decode($response, true);
+//
+//    $users = $json['categories'];
+//    foreach ($users as $user) {
+//        echo $user['category'];
+//    }
+//}
 ?>
