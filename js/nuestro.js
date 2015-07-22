@@ -43,6 +43,13 @@ window.onload = function () {
             }
         }
     });
+    $(window).scroll(function(event){
+        toggleHeader();
+    });
+
+    function toggleHeader() {
+        $('.page-header ').toggle( $(window).scrollTop() < 1 );
+    }
 };
 function validarBusqueda() {
     var busqueda = document.getElementById("busqueda").value;
