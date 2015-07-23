@@ -31,8 +31,7 @@
                     <ul class="dropdown-menu dropdown-menu-large row">
                         <?php
                         include 'function.php';
-                        $response = RedTubeApiCall($http, $params);
-
+                        $response = sendRequest('redtube.Categories.getCategoriesList');
                         if ($response) {
                             $json = json_decode($response, true);
                             $categories = $json['categories'];
@@ -52,7 +51,8 @@
                     </ul>
 
                 </li>
-                <li><a href="function.php">Actrices</a></li>
+                <li><a href="function3.php">Actrices</a></li>
+                <li><a href="function2.php">Prueba</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TOP 5 <span class="caret"></span></a>
                     <ul class = "dropdown-menu">

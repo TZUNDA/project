@@ -17,23 +17,14 @@ function RedTubeApiCall($http_server, $params = array()) {
     return $content;
 }
 
-$http = 'http://api.redtube.com/';
-$call = 'redtube.Categories.getCategoriesList';
+function sendRequest($request) {//esta funcion ace toa la peticion, solo le pasamos el metodo a ejecutar
+    $params = array(
+        'output' => 'json',
+        'data' => $request
+    );
+    $resp = RedTubeApiCall('http://api.redtube.com/', $params);
+    return $resp;
+}
 
 
-$params = array(
-    'output' => 'json',
-    'data' => $call
-);
 
-//$response = RedTubeApiCall($http, $params);
-//
-//if ($response) {
-//    $json = json_decode($response, true);
-//
-//    $users = $json['categories'];
-//    foreach ($users as $user) {
-//        echo $user['category'];
-//    }
-//}
-?>
