@@ -25,6 +25,3 @@ function sendRequest($request) {//esta funcion ace toa la peticion, solo le pasa
     $resp = RedTubeApiCall('http://api.redtube.com/', $params);
     return $resp;
 }
-
-
-
