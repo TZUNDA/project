@@ -34,8 +34,9 @@
                         $response = sendRequest('redtube.Categories.getCategoriesList');
                         if ($response) {
                             $json = json_decode($response, true);
+                             //$json['categories'][0]['category'];
                             $categories = $json['categories'];
-                            
+                            //$categories[0]['category'];
                             foreach ($categories as $category) {
                                 echo "
                                     <li class=\"col-sm-3\">
