@@ -14,3 +14,7 @@ http://www.webmonkey.com/2010/05/embed-videos-in-your-web-pages-using-html5/
 http://www.webmonkey.com/2010/05/embed-videos-in-your-web-pages-using-html5/
 
 https://www.lennu.net/jquery-lazy-loading-images-simple-example/
+
+AJAX SENCILLO CON JSON Y PHP
+https://www.lennu.net/jquery-ajax-example-with-json-response/
+
