@@ -17,4 +17,4 @@ https://www.lennu.net/jquery-lazy-loading-images-simple-example/
 
 AJAX SENCILLO CON JSON Y PHP
 https://www.lennu.net/jquery-ajax-example-with-json-response/
-
+http://cybmeta.com/ajax-con-json-y-php-ejemplo-paso-a-paso/
