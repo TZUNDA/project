@@ -12,3 +12,5 @@ Esta es pa seguridad del PHP
 http://www.htmlgoodies.com/html5/client/how-to-embed-video-using-html5.html#fbid=0u-eDM3wLyF
 http://www.webmonkey.com/2010/05/embed-videos-in-your-web-pages-using-html5/
 http://www.webmonkey.com/2010/05/embed-videos-in-your-web-pages-using-html5/
+
+https://www.lennu.net/jquery-lazy-loading-images-simple-example/
