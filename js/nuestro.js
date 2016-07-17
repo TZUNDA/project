@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+// $(document).ready(function(){ probar con este mas rapido
 window.onload = function () {
     $(".nav li").on("click", function () {
         $(".nav li").removeClass("active");
