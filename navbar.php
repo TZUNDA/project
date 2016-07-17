@@ -53,6 +53,7 @@
 
                 </li>
                 <li><a href="function3.php">Actrices</a></li>
+                <li><a href="slider.php">Slider</a></li>
                 <li><a href="function2.php">Prueba</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TOP 5 <span class="caret"></span></a>
